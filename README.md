@@ -5,9 +5,7 @@ This template contents information about all features that I have used to make t
 This template is reliable and easy to use for business purposes.
 
 #Setps used for running this project to your personal device(for new in Github)
-
 If you wants to know more about this project and how does it will works then follow some steps-----------------
-
 1.Click on the code button.
 2.After clicking onto it, click on the download zip file and download it.
 3.Once you downloaded, now try to unzip the zipped file.
